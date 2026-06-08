@@ -1,0 +1,45 @@
+Best course to have good foundation in computer science
+
+I definitely recommend Harvard's CS50 since you can just do it for free online.
+
+Hello! I taught programming for a while and still doing it to this day. What is taught and how it is taught changes through the years.
+
+Some sort of course on basics of programming, preferably in C. Some exposure to CPU architecture.
+Basics of Java/C#/C++ and OOP. Two courses.
+Data structures and algorithms. Two courses.
+Computer architecture.
+Course on software development and design.
+Extremely important today - multicore programming.
+DB.
+
+This is very basic skills you need to work in today's SWE.
+
+With that said, someone in my circle of friends became super successful product manager in mid size software company with history degree, coming on board knowing nothing about SWE. If your goal is to become manager at software engineering company, take few basic courses in any programming languages, basic course on software design, course on cloud and databases.
+
+Just a career advice: startups failure rate is astonishing. Be prepared to jump around.
+
+If it's python then I highly recommend going through this book called "Automate the Boring Stuff with Python". Python is a good start but python programmers are the first ones to be replaced by AI as it can generate highly accurate code. You can probably pick some other niche technologies.
+
+Don't agree. Programmers won't be replaced by AI. The real takeaway is that knowing a language isn't enough, you need fundamentals. Writing maintainable code, designing scalable systems, understanding tradeoffs, etc. Learning a language is fun and definitely useful but it's not enough to start an engineering career. Also it's important to specify that there's a big difference between simply making python scripts and actually developing a system using python.
+
+A script runs, does a task once, and then you automate it or move on. A system has to keep running, deal with errors, maybe talk to a database or API, support more than one user, and generally stick around. Once you're thinking about tests, logging, scaling, or security, you're designing a system.
+
+I disagree as well. AI won't fully replace software developers. Learn the language that's right for the goal you're trying to achieve. It's actually a good thing if AI is good at your language, it can help you learn it faster.
+
+It can help you learn faster but it can also hinder growth. If you use it to understand code better and to do tedious tasks more quickly it's great. But I've also seen people just throw every issue that comes up into a prompt until the problem is solved, you don't learn much by doing that.
+
+Maybe you could do a masters in computer science? That way you could leverage that into an internship, which many startups prefer you to have plus professional experience.
+
+Yeah, these are kind of pseudo-bachelor's degree. All they care about is any college degree, and you get out in fewer years. The master's degree in the US is strange. There are professional masters which are mostly money-making. It's a 1-2 year program, and is just more courses. There's the classic masters which leads to a PhD. Georgia Tech has such a master's in computer science.
+
+There are a bunch of schools that have CS Masters for people without a BA in CS in the US.
+
+Computer Science is no more about computers than astronomy is about telescopes. - Edgar Dijkstra. Computer Science is not equal to Programming. Programming is a part of Computer Science though.
+
+Computer Science is the study of computation, information, and automation. Notice that all three do not require computers. We've been computing, studying information, and automating certain tasks before written history.
+
+Take courses from big universities. CS61A and CS61B will give a really good foundation.
+
+I've been looking up this question for a while and I came to find this is the first course students would take at MIT: Structure and Interpretation of Computer Programs. The whole idea is the logic behind programming, it doesn't matter the language.
+
+You can use the GT OMSCS minimum requirements as a guide for what foundational CS knowledge you need.

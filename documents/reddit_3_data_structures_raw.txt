@@ -1,0 +1,3 @@
+Advice for Computer Science student
+
+Hey guys I was wondering what would be the best advice for students in Computer Science. I have taken only my first two programming courses Intro to C++, and Object Orientated and struggled since I have never programmed before but I have taken other courses like Programming Language Concepts, Discrete Structures which I really liked and enjoyed and understood the material. I guess I'm asking what's the best advice to become a better programmer? FYI my next programming course will be Data Structures. Thanks!

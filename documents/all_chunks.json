@@ -1,0 +1,542 @@
+[
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "Recommended computer science courses and recommended learning order\nSingle variable calculus: MIT Calculus I\nMultivariable calculus: MIT Calculus II\nProbability: MITx Probability - The Science of Uncertainty and Data\nDifferential equations: MIT Differential Equations\nSignals and systems: MIT Signals"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "rential Equations\nSignals and systems: MIT Signals and systems\nLinear algebra: MIT Linear algebra\nIntro to discrete mathematics: MIT Mathematics for computer science\nClassical mechanics: RiceX mechanics part 1, part 2\nElectricity and magnetism: RiceX Electricity and magnetism part 1, part 2\nComputer"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "Electricity and magnetism part 1, part 2\nComputer literacy: MIT CS missing semester\nIntroduction to computer science: Teachyourselfcs programming recommendations\nComputer architecture: Teachyourselfcs computer architecture recommendations\nOperating systems: Teachyourselfcs operating systems recomme"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "systems: Teachyourselfcs operating systems recommendations\nComputer networks: Teachyourselfcs networks recommendations\nData structures and algorithms: Teachyourselfcs algorithms recommendations\nLanguages and compilers: Teachyourselfcs languages recommendations\nSoftware construction: MIT Software con"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "mendations\nSoftware construction: MIT Software construction\nSoftware engineering: UBCx Software engineering\nMachine learning: Andrew Ng Machine Learning\nImage processing and computer vision: NU Fundamentals of Digital Image and Video Processing\nComputer graphics: UCSDx Computer graphics\nDatabases: T"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "ter graphics: UCSDx Computer graphics\nDatabases: Teachyourselfcs databases recommendations\nHTML, CSS and JS: John Hopkins HTML, CSS, and Javascript for Web Developers\nCSS frameworks: Front-End Web UI Frameworks and Tools: Bootstrap 4\nBack-end frameworks: Server-side Development with NodeJS, Express"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "rks: Server-side Development with NodeJS, Express and MongoDB\nFront-end frameworks: Front-End JavaScript Frameworks: Angular\nIntroduction to computer security: MIT Computer systems security\nHow many of these courses have you completed? You might be interested in the Open-Source Computer Science degr"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "nterested in the Open-Source Computer Science degree, which is a similar concept to what you've made here. You can contribute to their Github if you think that they should add something to their curriculum.\nFor those wondering, this is an extremely good tool for those wanting to be solid in their un"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "ood tool for those wanting to be solid in their undergrad knowledge before moving to masters, or for those wishing to switch from another major to understand what they need to know before going into a masters program. If you want a basic undergrad level job though, getting that piece of paper is a l"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "vel job though, getting that piece of paper is a lot more important as you first need to get through HR and they look for keywords since they don't know what they are really screening for.\nYou're right that you don't come away with the piece of paper at the end of the degree, which is a huge part of"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "at the end of the degree, which is a huge part of what you're paying for in a university CS education. The courses are designed to give you the knowledge that you could get by completing a CS degree. It's structured in a progression similar to a bachelors in Computer Science, but in a free online f"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "helors in Computer Science, but in a free online format.\nI recommend it because for my CS education, I'm doing a combination of the two approaches. I've completed several of the courses in the open-source curriculum, but I decided that I still want to get a traditional university degree to be more e"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "o get a traditional university degree to be more employable as well.\nI highly recommend doing this for any CS student who can commit enough time to juggle both. Supplementing your university courses with these online ones will give you knowledge that you might not otherwise get and an advantage in y"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "you might not otherwise get and an advantage in your normal university courses. CS50 in particular is the best of all the courses that I've done so far, including the in-person ones that I'm paying for.\nI agree. CS50 Is worth the time investment of all the online programming courses I've tried.\nI l"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "all the online programming courses I've tried.\nI like CS50 a little more than TOP mostly because of David's lectures and the teaching style. TOP really helps shore up some basic dev skills like being fairly proficient with the command line, git/github workflow and getting you set up with a VM runnin"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "b workflow and getting you set up with a VM running linux as well as real world IDEs. It cant hurt to do both but I would focus on CS50 first.\nThe main benefit of a degree is landing interviews. It's possible to break into the industry without a degree, but it's significantly harder. It used to be t"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "ee, but it's significantly harder. It used to be that university education was really the only way to learn computer science, but there are so many resources online today that it's much less necessary.\nA lot of it depends on where you are in the world as well. In my area, the vast majority of the jo"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "d as well. In my area, the vast majority of the job listings will include a bachelors degree in their requirements, whether that's a CS degree or some other degree matters a lot less.\nIs there really a need for that much emphasis on mathematics? I've done inferential statistics, different number sys"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "done inferential statistics, different number systems and calculus over 3 years so far in college but this seems like a lot.\nYeah, most CS majors don't need this much math. I should make a course filter depend on goals.\nFor anything 3D, you'll need to understand math pretty much perfectly. Also for"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "to understand math pretty much perfectly. Also for most of the solutions you build, using a geometric model will be pretty much required.\nIt really depends on what you want to do after your degree. There's a ton of software that doesn't require heavy duty math. But then again, most students don't kn"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "duty math. But then again, most students don't know exactly what kind of software they want to get into or what that actually requires.\nYou do not need anywhere near that amount of math. Take Single Variable Calculus, take Math for Computer Science, take the rest only as needed (with the possible e"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "take the rest only as needed (with the possible exception of Linear Algebra, which is probably worth taking regardless).\nI'm not sure about this, but I don't think you should take Missing Semester of CS before doing any courses. That should probably go after at least your first course so you have a"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "go after at least your first course so you have a bit of background.\nYou're using the TeachYourselfCS sequence, but that was created for people who have already been working and have experience programming, just want to learn the cs stuff to get better. If that's not you, add 61B in between the int"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "ter. If that's not you, add 61B in between the intro cs and computer architecture sections.\nI'm almost done with my CS degree and this post is making me feel mad insecure about my math knowledge.\nNah, don't stress it. This is a very ideal breadth and depth of coverage, that's good for self-study to"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "depth of coverage, that's good for self-study to fill in whatever gaps there are in your foundation once you're in industry or applying for PhD programs.\nI would probably remove the physics and the signals and systems courses. They are not relevant to CS unless you want to do some kind of 3D modeli"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "to CS unless you want to do some kind of 3D modeling or apply programming to a different engineering field. Strictly CS, totally unnecessary.\nFrom a mathematics perspective I wouldn't bother with the calculus, probability, or diff eq for the same reasons above. You are missing a proofs, abstract alg"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "sons above. You are missing a proofs, abstract algebra, and number theory course. Also, make sure your data and algorithms course covers P vs NP. Most do, but I didn't look through the syllabus for these courses.\nTake out multi variable calc, diff EQ, signals, and then elec and mag. Those are more C"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": ", signals, and then elec and mag. Those are more Comp engineering courses.\nI'm due to graduate soon, and I can tell you this covers about 60% of my degree. The usual boot camp stuff covers less than 5%. If you don't half ass it and do everything on here, you'll definitely know as much as an undergra"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "ere, you'll definitely know as much as an undergraduate, maybe even more. However, without a degree to prove it, I'm wondering if it's really worth doing all of this at home.\nI agree with everything in your course graph except for the paths leading from the Software Engineering, HTML CSS JS, and Dat"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "rom the Software Engineering, HTML CSS JS, and Databases nodes in the tree. These aren't really computer science. So I wouldn't include these unless someone desires to go into software development and/or web development as they aren't really necessary to learn unless you are going into that industry"
+  },
+  {
+    "source": "reddit_1_cs_courses_order",
+    "text": "y to learn unless you are going into that industry."
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "Best course to have good foundation in computer science\nI definitely recommend Harvard's CS50 since you can just do it for free online.\nHello! I taught programming for a while and still doing it to this day. What is taught and how it is taught changes through the years.\nSome sort of course on basics"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "s through the years.\nSome sort of course on basics of programming, preferably in C. Some exposure to CPU architecture.\nBasics of Java/C#/C++ and OOP. Two courses.\nData structures and algorithms. Two courses.\nCourse on software development and design.\nExtremely important today - multicore programming"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "Extremely important today - multicore programming.\nThis is very basic skills you need to work in today's SWE.\nWith that said, someone in my circle of friends became super successful product manager in mid size software company with history degree, coming on board knowing nothing about SWE. If your"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "oming on board knowing nothing about SWE. If your goal is to become manager at software engineering company, take few basic courses in any programming languages, basic course on software design, course on cloud and databases.\nJust a career advice: startups failure rate is astonishing. Be prepared to"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "artups failure rate is astonishing. Be prepared to jump around.\nIf it's python then I highly recommend going through this book called \"Automate the Boring Stuff with Python\". Python is a good start but python programmers are the first ones to be replaced by AI as it can generate highly accurate code"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "aced by AI as it can generate highly accurate code. You can probably pick some other niche technologies.\nDon't agree. Programmers won't be replaced by AI. The real takeaway is that knowing a language isn't enough, you need fundamentals. Writing maintainable code, designing scalable systems, understa"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "ainable code, designing scalable systems, understanding tradeoffs, etc. Learning a language is fun and definitely useful but it's not enough to start an engineering career. Also it's important to specify that there's a big difference between simply making python scripts and actually developing a sys"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "aking python scripts and actually developing a system using python.\nA script runs, does a task once, and then you automate it or move on. A system has to keep running, deal with errors, maybe talk to a database or API, support more than one user, and generally stick around. Once you're thinking abou"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "generally stick around. Once you're thinking about tests, logging, scaling, or security, you're designing a system.\nI disagree as well. AI won't fully replace software developers. Learn the language that's right for the goal you're trying to achieve. It's actually a good thing if AI is good at your"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": ". It's actually a good thing if AI is good at your language, it can help you learn it faster.\nIt can help you learn faster but it can also hinder growth. If you use it to understand code better and to do tedious tasks more quickly it's great. But I've also seen people just throw every issue that com"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "e also seen people just throw every issue that comes up into a prompt until the problem is solved, you don't learn much by doing that.\nMaybe you could do a masters in computer science? That way you could leverage that into an internship, which many startups prefer you to have plus professional exper"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "tartups prefer you to have plus professional experience.\nYeah, these are kind of pseudo-bachelor's degree. All they care about is any college degree, and you get out in fewer years. The master's degree in the US is strange. There are professional masters which are mostly money-making. It's a 1-2 yea"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "ters which are mostly money-making. It's a 1-2 year program, and is just more courses. There's the classic masters which leads to a PhD. Georgia Tech has such a master's in computer science.\nThere are a bunch of schools that have CS Masters for people without a BA in CS in the US.\nComputer Science i"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "e without a BA in CS in the US.\nComputer Science is no more about computers than astronomy is about telescopes. - Edgar Dijkstra. Computer Science is not equal to Programming. Programming is a part of Computer Science though.\nComputer Science is the study of computation, information, and automation."
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "study of computation, information, and automation. Notice that all three do not require computers. We've been computing, studying information, and automating certain tasks before written history.\nTake courses from big universities. CS61A and CS61B will give a really good foundation.\nI've been lookin"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": "ll give a really good foundation.\nI've been looking up this question for a while and I came to find this is the first course students would take at MIT: Structure and Interpretation of Computer Programs. The whole idea is the logic behind programming, it doesn't matter the language.\nYou can use the"
+  },
+  {
+    "source": "reddit_2_cs_foundation",
+    "text": ", it doesn't matter the language.\nYou can use the GT OMSCS minimum requirements as a guide for what foundational CS knowledge you need."
+  },
+  {
+    "source": "reddit_3_data_structures",
+    "text": "Advice for Computer Science student\nHey guys I was wondering what would be the best advice for students in Computer Science. I have taken only my first two programming courses Intro to C++, and Object Orientated and struggled since I have never programmed before but I have taken other courses like P"
+  },
+  {
+    "source": "reddit_3_data_structures",
+    "text": "ammed before but I have taken other courses like Programming Language Concepts, Discrete Structures which I really liked and enjoyed and understood the material. I guess I'm asking what's the best advice to become a better programmer? FYI my next programming course will be Data Structures. Thanks!"
+  },
+  {
+    "source": "reddit_3_data_structures",
+    "text": "gramming course will be Data Structures. Thanks!"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "The design of a wholesome introduction to computer science course\nThe internet is flooded with questions about which introductory book or course is the best to start with, which language to choose, etc. There are too many resources out there and each of them has its own shortcomings.\nOne common tren"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "of them has its own shortcomings.\nOne common trend I have seen is that people want to start with a very high-level language and then straight move on to an Algorithms and Datastructures resource. One common complaint that is also in abundance in the forums is that after this process they still don'"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "forums is that after this process they still don't understand how computers work under the hood; the most common complaint being \"I don't quite get how pointers work\".\nMy point is that I don't get one thing. Why don't universities design an introductory course that makes use of languages starting f"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "tory course that makes use of languages starting from high-level languages to assembly (even if TOY languages and TOY hardware). The course focuses on a few basic DS and Algos. The students, then, can learn about programming, comp architecture and computer science in a wholesome package at all level"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "mputer science in a wholesome package at all levels. When you see the whole picture at once, the maps formed in your mind get really strong and well connected.\nTwo books that mirror this ideology are SICP and Nand2Tetris. Colleges have stopped using SICP as an intro text long back. No US college fol"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "SICP as an intro text long back. No US college follows this principle. In fact, no new books are written with that in mind nowadays. Every book is about learning X language and solving a set of problems in that language.\nWhy has CS education been watered down over the years? Only to create giant wor"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "ered down over the years? Only to create giant workforces for the industry? Where did the joy of CS vanish?\nComputers and languages were built from the ground up starting from transistors and digital logic. Adding layer upon layer of abstractions we got to where we are currently. Why don't universit"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "got to where we are currently. Why don't universities follow that process in the introductory course rather than teaching some recently popular high level language to build things? Why not teach CS starting that way with appropriate history thrown in at each stage to justify design decisions. Then p"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "at each stage to justify design decisions. Then programming wouldn't be a headache in later courses and the later courses may focus on more math and theory part of CS.\nI studied electrical engineering and computer science. I've found that I have a much better understanding of how computers actually"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "uch better understanding of how computers actually work even though I'm not as knowledgeable in data structures etc. I took courses in semiconductor physics, circuits, signal processing, assembly language, and the basic cs courses. It's really cool that I have enough knowledge to explain how a basic"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "hat I have enough knowledge to explain how a basic processor works from the tiniest particles to UI interfaces. Highly recommend any CS students out there take a few electrical engineering courses.\nI studied mechatronics and had the same experience. On my course we first studied digital logic, basic"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "On my course we first studied digital logic, basic computer architecture and then assembly before moving on to C and finally C++.\nBack in my day the CS courses started out with Modula 2 and you were expected to take an assembly course in the third or fourth semester. It is a good approach because be"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "fourth semester. It is a good approach because before you get too deep into data structures and other advanced concepts you get exposure to a simple controller coding and what is actually going on with the processor.\nI did Harvard CS50 Intro to Comp Sci. We started off with C and clawed our way up"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "Sci. We started off with C and clawed our way up to Python, all the while learning about elementary data structures and algorithms. Towards the latter part we learned about some basic web development. They had a really abstracted explanation on what was going on under the hood, more specifically wi"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "was going on under the hood, more specifically with RAM. That actually helped quite a bit when dealing with pointers and memory allocation. Didn't really cover anything on computer architecture though which is a bummer but to be expected. I thought it was a decent intro to CS.\nI think CS50 does it"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "it was a decent intro to CS.\nI think CS50 does it in the best way, as an intro course that anyone can take, starting with a low level language and abstracting from there.\nYes CS50 covers much of the whole picture. But it is quite shallow.\nAt my University they had a course called programming which w"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "rsity they had a course called programming which was about abstraction. We weren't even writing working code at first. Weren't even using a computer. This was very much about not knowing what's under the hood. That course later on evolved into learning about algorithmic complexity and data structure"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "ng about algorithmic complexity and data structures, recursion and functional programming. It used a programming language designed specifically for learning.\nOn the other hand, you had a course called machines. This started with teaching about logic operators and then proceeded to hardware: diodes,"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "operators and then proceeded to hardware: diodes, flipflops, then NAND ICs and plugging that stuff on a powered board to make a program this way. This course later evolved into basic CPU workings, writing code in 1s and 0s with opcodes and registers. Then we made an assembler and moved to writing as"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "Then we made an assembler and moved to writing assembly. Then writing and compiling a lib to be linked with a C-like language and ultimately have runnable code on an actual computer. Later on, that class moved to basic operating system architecture and modding a Unix variant called minix.\nThe first"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "and modding a Unix variant called minix.\nThe first semester of my first undergrad year had a Computer Architecture course covering logic-gates, micro architectures, ISAs and higher-level software abstractions. We did not really see the electrical-engineering part but designed a lot of cool stuff, st"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "ineering part but designed a lot of cool stuff, starting from basic logic gates up to an assembler, written in C. The course was partially based on nand2tetris.\nCS is no more about inventing. It is all about salaries, Silicon valley and career fairs.\nI guess one of the biggest reasons is that new st"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "I guess one of the biggest reasons is that new students are starting out by learning languages like python or javascript because they're easy. We should be learning languages like C, because even though it is hard, it manages to teach all topics clearly, it's statically typed, pointer-use heavy and"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "arly, it's statically typed, pointer-use heavy and low level and these things make it better for learning as a first language. You will face no problem learning a new language once you know C. Also there should be a computer history class where you can learn what older techniques were and why they w"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "an learn what older techniques were and why they were wrong and how we solved them.\nAny subject should have a history class. How it came to be? How it evolved and why it evolved? Stories remain etched easily in your memory.\nI think it varies from one place to another. At my university we started wit"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "place to another. At my university we started with C and that was my introduction to programming and computer science. It was only much later that I took an OOP course which introduced the concept of OOP using Java. I even learned some basic assembly language before ever touching Java. I think it w"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "y language before ever touching Java. I think it would have been way more difficult to learn C after Java than it was the other way around.\nlayer upon layer of abstractions is exactly what CS is about and it is important to appreciate each layer. CS is not about programming and there is no need to l"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "is not about programming and there is no need to learn any industrial programming language. Each of those is just a middle layer of many layers that start from digital logic. Whatever layer you look at it seems to be the computer, and the layer below it is the computer after a level of abstraction a"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "it is the computer after a level of abstraction and so on to the lowest level of logic gates.\nMy university has a course, advanced programming, designed to do this. The course design was submitted and published in some pedagogy journals.\nHow do you feel about Crash Course Computer Science on YouTub"
+  },
+  {
+    "source": "reddit_4_intro_cs_design",
+    "text": "feel about Crash Course Computer Science on YouTube? It is usually my go-to when someone asks me where to start with CS."
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "This is a very difficult class but if you intend to take the foundation exam take it with Tanvir, his class is well organized by quizzes, assignments, labs and reviews so you'll learn a looot, there is no way you won't understand. But be prepared eitherways with any professor it is hard. Whole class"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "herways with any professor it is hard. Whole class is based on data structure al algorithms so linked list, DMA, binary,etc...\nComments on the professor\nHe really wants to make sure you learn\nLinked lists and Hash Tables, and binary search are like your bread and butter of intermediate leetcode prob"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "our bread and butter of intermediate leetcode problems so this class is basically 70% of what you'll need for your generic technical interview\nComments on the professor\nYou stanford kids are lucky you got Szumlanski. He's the goat.\nBe ready for it to kick you in the behind unless you're studying and"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "kick you in the behind unless you're studying and working out your assignments almost daily. First big boy CS class at UCF\nGoing into CS1 at the start of the semester, I knew this was going to be a challenging course. Not just the material and the methods of the exam, but also Szumlanski himself is"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "ethods of the exam, but also Szumlanski himself is known for being a difficult professor. I can safely say that this is known information for a reason: it's true. This class was brutal sometimes, with many of my programming assignments being massive headaches to get through (if I got through them at"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "headaches to get through (if I got through them at all). However, Szumlanski does make the material understandable and digestible if you put in the effort and go to class. This is not a class you can just breeze through, but if you buckle down and study, you'll be just fine.\nLots of data structures"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "udy, you'll be just fine.\nLots of data structures and runtime analysis in this class. There's some components that get skipped over or watered down until you take CS2, but for the most part it's all relevant enough that you'll be using the information taught for quite a while in your upper level cla"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "n taught for quite a while in your upper level classes.\nComments on the professor\nSzumlanski is an absolute treat of a professor, and a true gem within the CS department. He knows the ins and outs of the material covered in class, and the way he explains stuff makes it make so much sense compared to"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "ains stuff makes it make so much sense compared to how I learned it in the past.\nThe main con with Szumlanski is that grading takes a while for your assignments, but he has explained that part of that is due to lack of available funding for TA's, which is understandable.\nOffice hours, while very use"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "ch is understandable.\nOffice hours, while very useful, are often limited to certain days of the week. As such, this can limit your ability to get help for a programming assignment if you procrastinate on it. So don't procrastinate.\nWant to figure out if CS is for you? Worried about the Foundation Ex"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "if CS is for you? Worried about the Foundation Exam? Just interested in coding? Then this class is for you! Szum’s lectures are awesome and he will prepare you well for the FE (he even used to work for Google!). Be warned though: the learning curve is very steep and things go at a fast pace. You wi"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "is very steep and things go at a fast pace. You will have to keep yourself in check in order to not fall behind (that means practicing your code/coding parts of your projects nearly every day). Projects are given out every two weeks, so make sure you start them when he hands them out!\nThis class is"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "start them when he hands them out!\nThis class is also very math and logic-heavy and that’s the main thing that weeds people out of CS (sadly, myself included). Make sure you brush up on pointers and linked lists as well!\nSzumlanski's class is very difficult, but very vital if you're looking to gain"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "ifficult, but very vital if you're looking to gain the knowledge you'd actually want for a job in the field. The course has very fair grading, but don't expect to put in no work and get a C. Highly recommend.\nRead each assignment's PDF the night it comes out and work on it a little every day. Eustis"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "omes out and work on it a little every day. Eustis was down at pivotal moments, so you'd want to be sure to get the assignments done as fast as possible.\nAs everyone knows, Szum is an amazing professor. If you have the chance to take ANY class with him, do it!\nThe class involves algorithms and data"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "im, do it!\nThe class involves algorithms and data structures using the C programming language. Algorithms include sorting and backtracking and some stuff with bitwise operators in C. Data structures are Linked Lists, stacks, queues, binary trees, avl trees, hash tables, and maybe a couple others I’m"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "trees, hash tables, and maybe a couple others I’m forgetting.\nSzum will also prepare you really well for the foundation exam if you’re a CS student.\nAssignments take a long time but are definitely doable. There are a ton of available TAs for help, but personally I prefer Szum‘s office hours.\nStart"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "ut personally I prefer Szum‘s office hours.\nStart on assignments early, prepare for tests (even if you normally don’t, cuz I normally don’t), don’t he afraid to go to office hours and ask questions.\nYou might be wondering why I put 1/5 for “easy” but “5/5” for interesting. That’s because Szum is a f"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "“5/5” for interesting. That’s because Szum is a fantastic professor, but the material itself is absolute murder.\nThe class hinges on the C programming language and math at the level of at least Calculus with Analytical Geometry.\nWith my multiple years of programming experience, I was able to easily"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "rs of programming experience, I was able to easily do the C programming part but I bombed the math parts of the two exams I took because I had terrible math professors in the past and failed those classes entirely.\nI had a 70% with a project and an exam still ungraded by the time the withdrawal dead"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "xam still ungraded by the time the withdrawal deadline came around, so I didn’t take my chances and I withdrew from the course. If Szum had graded those two things a little bit faster, I might have stayed in if I was more certain about my grad\nLearn math before taking this class. That’s the part tha"
+  },
+  {
+    "source": "reviews_cop3502c",
+    "text": "math before taking this class. That’s the part that gets you.\nThis course is taught using C which is used in many other upper year courses in CS like computer organization and operating systems"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "Never Respond to emails. Takes forever to post grades (almost 2 months and we don't have grades for HW1). Does not prepare for lectures most of the time, and you can tell because he gets stuck on a slide trying to figure it out. Some student questions go unanswered because he adds texts to the slide"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "s go unanswered because he adds texts to the slides that he does not know. Slow communicator. Often talks about other things not related to the topic. on hand. He does not explain much some topics. Many mistakes on the exams. Promises to do things and never does. Lack of integrity. He is not a teach"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "d never does. Lack of integrity. He is not a teacher at all. Stay away. You will not learn much. Student could not decide whether to withdraw the class because they did not know their grades. He struggles with Zoom. I can't believe UCF still hires him. Read the Rate my professor website.\nIf you HAVE"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "m. Read the Rate my professor website.\nIf you HAVE to take him, go to office hours, use the slides to know the topics and research and learn about them on your own. Record the lecture and watch it in 1.7x the speed (he speaks slowly). He gives some review problems but that is not enough to be prepar"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "eview problems but that is not enough to be prepared for the exams\nMeade continues to struggle effectively teaching at UCF. He is without a doubt very knowledgeable about Computer Science, and he would be a great person to talk about all types of theory and general topics in conversation. But, when"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "ory and general topics in conversation. But, when we are trying to do assignments and pass exams, Meade is by far one of the worst at preparing us to do well. The cutoff for passing was a 50%, with 4 dropped assignments out of 10 total (3 labs, 7 Programming Assignments) and 3 tests. Unless you are"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "gramming Assignments) and 3 tests. Unless you are truly passionate, you will feel lost with his method of teaching and be hopelessly bored watching him try to explain things.\nDon't fall behind, because you will not pass this class if you do. There is way too much course material for any sort of slac"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "way too much course material for any sort of slacking. Stay around the curve and focus on the labs and easy assignments, these can set you up early to do well. And don't cheat, he gives negative grades instead of 0's.\nGerber is a nice professor. This is the first time he taught this class and it di"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "s is the first time he taught this class and it did show a little bit. Lectures were online through zoom and were recorded for later viewing. Delivery was mostly reading powerpoints with not very much live coding. Only reason I put 4/5 stars for easy were because of the programming assignments. They"
+  },
+  {
+    "source": "reviews_cop3503c",
+    "text": "were because of the programming assignments. They can be challenging but definitely doable.\nStart early on assignments. He makes homework and programming assignments very difficult to teach you. Exams are rather easy if you know the content."
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "Introduction To Computer Science I\nIf you take this class, make sure to read the reviews about who your professor is going to be. This class is so important for your foundation to learning harder computer classes. Besides that, the assignments are quite easy and if you have supplemental resources li"
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "ite easy and if you have supplemental resources like Chegg, StackOverflow, etc… you can definitely succeed!\nComments on the professor\nEvelyn Lulis has MANY negative reviews on RateMyProfessors as well. And for good reason, too. She rambles nonsense a lot, assumes the worst of her student, and is ove"
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "lot, assumes the worst of her student, and is overall just really negative.\nI would have taken the class with a better professor.\nI went into this class with some Python experience, which I really think helped me do as well as I did in this class. Lots of little projects for weekly assignments, I t"
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "ots of little projects for weekly assignments, I took this class once a week in a 3 hour block, which really made lectures feel like they went on forever.\nBasic Python information, I highly recommend taking notes and reviewing vocabulary if it's your first time looking at/writing code.\nComments on t"
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "first time looking at/writing code.\nComments on the professor\nSaweh's lectures put me to sleep. Again, I did take this class in a 3 hour block, from 6-9pm which I definitely would not recommend. The class itself wasn't terrible, but I did not get a lot out of Saweh's lectures.\nComments on the profe"
+  },
+  {
+    "source": "reviews_csc241",
+    "text": "lot out of Saweh's lectures.\nComments on the professor"
+  },
+  {
+    "source": "reviews_prof_kapp_nyu",
+    "text": "Very organized and efficient! Tests and quizzes are fair, no tricks. Clear lectures, many online resources, many tutors available. A lot is learned through online videos that are then expanded on in the lectures, so if you don't like that maybe avoid. Easy to get a good grade if you just do the work"
+  },
+  {
+    "source": "reviews_prof_kapp_nyu",
+    "text": ". Easy to get a good grade if you just do the work.\nHe is the best professor that I am going to ever have in nyu, I knew this since the first week I have him. I take this course as an elective and choose cs and learn python because of him. Really love Prof. Kapp, take him if u can!!!!!!!!!!!!\nonly 1"
+  },
+  {
+    "source": "reviews_prof_kapp_nyu",
+    "text": "e Prof. Kapp, take him if u can!!!!!!!!!!!!\nonly 1 month in and i already know he's the best professor ill ever have in nyu\nProfessor Kapp was incredible! He gave me such a good intro to the computer programming world.\nCopyright Compliance Policy\nDo Not Sell My Personal Information"
+  },
+  {
+    "source": "reviews_prof_kapp_nyu",
+    "text": "Not Sell My Personal Information"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "Had him for 304 and 481. I found both courses pretty difficult overall. For 304, I felt Prof. Decker did a good job giving us a lot of practice to help the concepts click. For 481, I did drop my rating a little because I felt that he didn't give enough practice with the concepts. I definitely recomm"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "gh practice with the concepts. I definitely recommend going to office hours for help if needed!\nHomework usually takes me more than 8 hours on average to complete, and that's for every week.\nI love professor Decker. As a comp sci major this class made me more excited for the rest of the program. I p"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "e me more excited for the rest of the program. I personally found this class easy, and easy to pass, especially with the flexible due dates and instant feedback with blockPY. He is a joy to listen to and truly cares about his students and what he talks about. Also funny and joyful.\nDecker is wonderf"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "ks about. Also funny and joyful.\nDecker is wonderful. He provides amazingly simple, brief, and clear notes. That and the lectures is all you need to pass the course. Covers good, complex examples in lecture that always mirror the homework. DLV \"programming\" is something he needs more notes on, but o"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "amming\" is something he needs more notes on, but otherwise this was a delightful course.\nSkip class? You won't pass.\nThe reason I like this professor so much is because he gives really hard homework, but his exams are actually fair. He always made sure to go over things more than once if half the cl"
+  },
+  {
+    "source": "reviews_prof_decker_delaware",
+    "text": "re to go over things more than once if half the class didn't know what was going on and made sure to let us know exactly what to expect for exams.\nSkip class? You won't pass.\nCopyright Compliance Policy\nDo Not Sell My Personal Information"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": "The University of Texas at Dallas\nThe lectures are organized and engaging. Assignments and tests are fair, with great resources like the professor's custom textbook and YouTube videos. unstuck AI was a lifesaver for exam prep.\nWhile her lectures were dry, the course was super useful and at the begin"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": "dry, the course was super useful and at the beginner friendly level as you will learn a lot of basic skills for nlp and data science, very easy to get an A as long as you complete the coursework in timely manner, ask questions from instructor and peers to do your best, provides bonus opportunities"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": "ers to do your best, provides bonus opportunities as well, best nlp prof\nProfessor Mazidi is very knowledgable in nlp. all the stuff she teaches in class is accessible online or in her textbook, but attendance is mandatory. class is well organized, homeworks were regular and a bit time consuming, qu"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": "omeworks were regular and a bit time consuming, quizzes on slide content almost every week, study the slides for the exam. easy A if you keep up with the constant workload.\nGrading is straightforward: it's homework, 3 exams, quizzes (open note and at home), and attendance. She gives great overviews"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": "home), and attendance. She gives great overviews of the material in her lectures but also provides an abridged textbook and YouTube videos to help you out.\nHomeworks/projects are sometimes tough but she always gives more than enough time to complete. Exams are very easy. She makes her own mini text"
+  },
+  {
+    "source": "reviews_prof_mazidi_utdallas",
+    "text": ". Exams are very easy. She makes her own mini textbooks and videos that have zero filler and are straight to the point. In short take her if you have the opportunity.\nCopyright Compliance Policy\nDo Not Sell My Personal Information"
+  }
+]

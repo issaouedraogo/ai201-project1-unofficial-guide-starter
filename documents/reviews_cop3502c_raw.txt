@@ -1,0 +1,335 @@
+COP 3502C UCF Reviews - Rate My Courses
+EssayPal.ai - This AI writes in your style of writing!
+COP 3502C
+ 
+Computer Science I
+Filter Reviews
+Professor
+Professor
+Delivery method
+Delivery method
+Term
+Term
+Overall
+0
+Easiness
+0
+Interest
+0
+Usefulness
+0
+Reviews
+ 
+9
+2
+Class Ratings
+4
+Good Class
+1
+Very Hard
+3
+Kinda Interesting
+3
+Kinda Useful
+Professor Rating
+ 
+5
+Amazing Prof
+Prof:
+ 
+Tanvir Ahmed
+ 
+/ 
+Summer
+ 
+2024
+Jun 28, 2024
+Comments on the course
+This is a very difficult class but if you intend to take the foundation exam take it with Tanvir, his class is well organized by quizzes, assignments, labs and reviews so you'll learn a looot, there is no way you won't understand. But be prepared eitherways with any professor it is hard. Whole class is based on data structure al algorithms so linked list, DMA, binary,etc...
+Course Content
+Very useful
+Comments on the professor
+He really wants to make sure you learn
+Advice
+Just study a lot
+Delivery: 
+In person
+Grade: 
+B
+Workload: 
+Heavy
+Textbook Use: 
+No
+Assignment Heavy
+Quiz Heavy
+Exam Heavy
+1
+Class Ratings
+4
+Good Class
+2
+Hard
+4
+Interesting
+3
+Kinda Useful
+Professor Rating
+ 
+5
+Amazing Prof
+Prof:
+ 
+Sean Szumlanski
+ 
+/ 
+Spring
+ 
+2022
+Apr 14, 2024
+Comments on the course
+Leetcode 101 basically
+Course Content
+Linked lists and Hash Tables, and binary search are like your bread and butter of intermediate leetcode problems so this class is basically 70% of what you'll need for your generic technical interview 
+Comments on the professor
+You stanford kids are lucky you got Szumlanski. He's the goat. 
+Advice
+Be ready for it to kick you in the behind unless you're studying and working out your assignments almost daily. First big boy CS class at UCF
+Delivery: 
+In person
+Grade: 
+C+
+Workload: 
+Heavy
+Textbook Use: 
+No
+Assignment Heavy
+Essay Heavy
+Attendance Heavy
+1
+Class Ratings
+5
+Amazing Class
+1
+Very Hard
+5
+Very Interesting
+4
+Useful
+Professor Rating
+ 
+5
+Amazing Prof
+Prof:
+ 
+Sean Szumlanski
+ 
+/ 
+Spring
+ 
+2022
+May 1, 2022
+Comments on the course
+Going into CS1 at the start of the semester, I knew this was going to be a challenging course. Not just the material and the methods of the exam, but also Szumlanski himself is known for being a difficult professor. I can safely say that this is known information for a reason: it's true. This class was brutal sometimes, with many of my programming assignments being massive headaches to get through (if I got through them at all). However, Szumlanski does make the material understandable and digestible if you put in the effort and go to class. This is not a class you can just breeze through, but if you buckle down and study, you'll be just fine.
+Course Content
+Lots of data structures and runtime analysis in this class. There's some components that get skipped over or watered down until you take CS2, but for the most part it's all relevant enough that you'll be using the information taught for quite a while in your upper level classes.
+Comments on the professor
+Szumlanski is an absolute treat of a professor, and a true gem within the CS department. He knows the ins and outs of the material covered in class, and the way he explains stuff makes it make so much sense compared to how I learned it in the past.
+
+The main con with Szumlanski is that grading takes a while for your assignments, but he has explained that part of that is due to lack of available funding for TA's, which is understandable.
+Advice
+Office hours, while very useful, are often limited to certain days of the week. As such, this can limit your ability to get help for a programming assignment if you procrastinate on it. So don't procrastinate.
+Delivery: 
+In person
+Grade: 
+B
+Workload: 
+Very Heavy
+Textbook Use: 
+No
+Exam Heavy
+Assignment Heavy
+0
+Class Ratings
+3.3
+OK Class
+1
+Very Hard
+4
+Interesting
+5
+Very Useful
+Prof:
+ 
+Sean Szumlanski
+ 
+/ 
+Spring
+ 
+2020
+Feb 13, 2021
+Comments on the course
+Want to figure out if CS is for you? Worried about the Foundation Exam? Just interested in coding? Then this class is for you! Szum’s lectures are awesome and he will prepare you well for the FE (he even used to work for Google!). Be warned though: the learning curve is very steep and things go at a fast pace. You will have to keep yourself in check in order to not fall behind (that means practicing your code/coding parts of your projects nearly every day). Projects are given out every two weeks, so make sure you start them when he hands them out!
+
+Even though Szum is very helpful, DO NOT CHEAT AT ALL COSTS! Catching cheaters is Szum’s equivalent to chilling with some Netflix and wine at the end of the day. He’s only this strict since he really wants you to get better at coding and pass th
+...read more
+Advice
+Again, I recommend starting your projects as soon as they are assigned. When I was in Szum’s class, some kids spent over 20 hours on projects! Luckily though, Szum’s office hours are very helpful and so are the TAs in the Cave!
+
+This class is also very math and logic-heavy and that’s the main thing that weeds people out of CS (sadly, myself included). Make sure you brush up on pointers and linked lists as well!
+Grade: 
+Drop/Withdrawal
+Attendance: 
+Mandatory
+Textbook Use: 
+No
+1
+Class Ratings
+4
+Good Class
+2
+Hard
+5
+Very Interesting
+5
+Very Useful
+Prof:
+ 
+Sean Szumlanski
+ 
+/ 
+Fall
+ 
+2020
+Jan 10, 2021
+Comments on the course
+Szumlanski's class is very difficult, but very vital if you're looking to gain the knowledge you'd actually want for a job in the field. The course has very fair grading, but don't expect to put in no work and get a C. Highly recommend.
+Advice
+Read each assignment's PDF the night it comes out and work on it a little every day. Eustis was down at pivotal moments, so you'd want to be sure to get the assignments done as fast as possible.
+Grade: 
+A
+Attendance: 
+Non-Mandatory
+Textbook Use: 
+No
+3
+Class Ratings
+4.3
+Good Class
+3
+Avg. Difficulty
+5
+Very Interesting
+5
+Very Useful
+Prof:
+ 
+Szumlanski
+ 
+/ 
+Spring
+ 
+2020
+Dec 23, 2020
+Comments on the course
+As everyone knows, Szum is an amazing professor. If you have the chance to take ANY class with him, do it!
+The class involves algorithms and data structures using the C programming language. Algorithms include sorting and backtracking and some stuff with bitwise operators in C. Data structures are Linked Lists, stacks, queues, binary trees, avl trees, hash tables, and maybe a couple others I’m forgetting.
+Szum will also prepare you really well for the foundation exam if you’re a CS student.
+Assignments take a long time but are definitely doable. There are a ton of available TAs for help, but personally I prefer Szum‘s office hours.
+Advice
+Start on assignments early, prepare for tests (even if you normally don’t, cuz I normally don’t), don’t he afraid to go to office hours and ask questions.
+Grade: 
+A
+Attendance: 
+Mandatory
+Textbook Use: 
+No
+4
+Class Ratings
+3
+OK Class
+1
+Very Hard
+5
+Very Interesting
+3
+Kinda Useful
+Prof:
+ 
+Sean Szumlanski
+ 
+/ 
+Spring
+ 
+2018
+Dec 21, 2020
+Comments on the course
+You might be wondering why I put 1/5 for “easy” but “5/5” for interesting. That’s because Szum is a fantastic professor, but the material itself is absolute murder. 
+
+The class hinges on the C programming language and math at the level of at least Calculus with Analytical Geometry. 
+
+With my multiple years of programming experience, I was able to easily do the C programming part but I bombed the math parts of the two exams I took because I had terrible math professors in the past and failed those classes entirely. 
+
+I had a 70% with a project and an exam still ungraded by the time the withdrawal deadline came around, so I didn’t take my chances and I withdrew from the course. If Szum had graded those two things a little bit faster, I might have stayed in if I was more certain about my grad
+...read more
+Advice
+Learn math before taking this class. That’s the part that gets you.
+Grade: 
+Drop/Withdrawal
+Attendance: 
+Mandatory
+Textbook Use: 
+No
+13
+Class Ratings
+4
+Good Class
+3
+Avg. Difficulty
+4
+Interesting
+5
+Very Useful
+Prof:
+ 
+Matthew Gerber
+ 
+/ 
+Fall
+ 
+2020
+Dec 20, 2020
+Comments on the course
+Awesome Teacher! This was his first time teaching CS1, and he made it an awesome experience! There were many bumps in the highway, but he helped us out along the way (even with covid forcing us online) He shared his “UCF-life” experiences, in terms of when he took CS1. 
+Advice
+Awesome Professor here!
+Grade: 
+C
+Attendance: 
+Non-Mandatory
+Textbook Use: 
+No
+9
+Class Ratings
+4.3
+Good Class
+3
+Avg. Difficulty
+5
+Very Interesting
+5
+Very Useful
+Prof:
+ 
+ 
+/ 
+Fall
+ 
+2018
+Dec 20, 2020
+Comments on the course
+This course is taught using C which is used in many other upper year courses in CS like computer organization and operating systems
+Attendance: 
+Non-Mandatory
+Textbook Use: 
+Optional
+ Leave a Review

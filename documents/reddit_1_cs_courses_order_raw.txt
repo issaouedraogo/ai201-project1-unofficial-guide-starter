@@ -1,0 +1,85 @@
+Recommended computer science courses and recommended learning order
+
+I made this. But not sure if it's helpful. So please tell me.
+
+Math courses:
+Single variable calculus: MIT Calculus I
+Multivariable calculus: MIT Calculus II
+Probability: MITx Probability - The Science of Uncertainty and Data
+Differential equations: MIT Differential Equations
+Signals and systems: MIT Signals and systems
+Linear algebra: MIT Linear algebra
+Intro to discrete mathematics: MIT Mathematics for computer science
+
+Physics courses:
+Classical mechanics: RiceX mechanics part 1, part 2
+Electricity and magnetism: RiceX Electricity and magnetism part 1, part 2
+
+CS courses:
+Computer literacy: MIT CS missing semester
+Introduction to computer science: Teachyourselfcs programming recommendations
+Computer architecture: Teachyourselfcs computer architecture recommendations
+Operating systems: Teachyourselfcs operating systems recommendations
+Computer networks: Teachyourselfcs networks recommendations
+Data structures and algorithms: Teachyourselfcs algorithms recommendations
+Languages and compilers: Teachyourselfcs languages recommendations
+Software construction: MIT Software construction
+Software engineering: UBCx Software engineering
+Machine learning: Andrew Ng Machine Learning
+Image processing and computer vision: NU Fundamentals of Digital Image and Video Processing
+Computer graphics: UCSDx Computer graphics
+Databases: Teachyourselfcs databases recommendations
+HTML, CSS and JS: John Hopkins HTML, CSS, and Javascript for Web Developers
+CSS frameworks: Front-End Web UI Frameworks and Tools: Bootstrap 4
+Back-end frameworks: Server-side Development with NodeJS, Express and MongoDB
+Front-end frameworks: Front-End JavaScript Frameworks: Angular
+Introduction to computer security: MIT Computer systems security
+
+How many of these courses have you completed? You might be interested in the Open-Source Computer Science degree, which is a similar concept to what you've made here. You can contribute to their Github if you think that they should add something to their curriculum.
+
+For those wondering, this is an extremely good tool for those wanting to be solid in their undergrad knowledge before moving to masters, or for those wishing to switch from another major to understand what they need to know before going into a masters program. If you want a basic undergrad level job though, getting that piece of paper is a lot more important as you first need to get through HR and they look for keywords since they don't know what they are really screening for.
+
+You're right that you don't come away with the piece of paper at the end of the degree, which is a huge part of what you're paying for in a university CS education. The courses are designed to give you the knowledge that you could get by completing a CS degree. It's structured in a progression similar to a bachelors in Computer Science, but in a free online format.
+
+I recommend it because for my CS education, I'm doing a combination of the two approaches. I've completed several of the courses in the open-source curriculum, but I decided that I still want to get a traditional university degree to be more employable as well.
+
+I highly recommend doing this for any CS student who can commit enough time to juggle both. Supplementing your university courses with these online ones will give you knowledge that you might not otherwise get and an advantage in your normal university courses. CS50 in particular is the best of all the courses that I've done so far, including the in-person ones that I'm paying for.
+
+I agree. CS50 Is worth the time investment of all the online programming courses I've tried.
+
+I like CS50 a little more than TOP mostly because of David's lectures and the teaching style. TOP really helps shore up some basic dev skills like being fairly proficient with the command line, git/github workflow and getting you set up with a VM running linux as well as real world IDEs. It cant hurt to do both but I would focus on CS50 first.
+
+The main benefit of a degree is landing interviews. It's possible to break into the industry without a degree, but it's significantly harder. It used to be that university education was really the only way to learn computer science, but there are so many resources online today that it's much less necessary.
+
+A lot of it depends on where you are in the world as well. In my area, the vast majority of the job listings will include a bachelors degree in their requirements, whether that's a CS degree or some other degree matters a lot less.
+
+Is there really a need for that much emphasis on mathematics? I've done inferential statistics, different number systems and calculus over 3 years so far in college but this seems like a lot.
+
+Yeah, most CS majors don't need this much math. I should make a course filter depend on goals.
+
+For anything 3D, you'll need to understand math pretty much perfectly. Also for most of the solutions you build, using a geometric model will be pretty much required.
+
+I personally don't think so. This seems more tailored towards engineering than general computer science. However, this list is still very helpful in providing a path to those who may be curious on how to start in CompSci.
+
+It really depends on what you want to do after your degree. There's a ton of software that doesn't require heavy duty math. But then again, most students don't know exactly what kind of software they want to get into or what that actually requires.
+
+Some comments:
+You do not need anywhere near that amount of math. Take Single Variable Calculus, take Math for Computer Science, take the rest only as needed (with the possible exception of Linear Algebra, which is probably worth taking regardless).
+
+I'm not sure about this, but I don't think you should take Missing Semester of CS before doing any courses. That should probably go after at least your first course so you have a bit of background.
+
+You're using the TeachYourselfCS sequence, but that was created for people who have already been working and have experience programming, just want to learn the cs stuff to get better. If that's not you, add 61B in between the intro cs and computer architecture sections.
+
+I'm almost done with my CS degree and this post is making me feel mad insecure about my math knowledge.
+
+Nah, don't stress it. This is a very ideal breadth and depth of coverage, that's good for self-study to fill in whatever gaps there are in your foundation once you're in industry or applying for PhD programs.
+
+I would probably remove the physics and the signals and systems courses. They are not relevant to CS unless you want to do some kind of 3D modeling or apply programming to a different engineering field. Strictly CS, totally unnecessary.
+
+From a mathematics perspective I wouldn't bother with the calculus, probability, or diff eq for the same reasons above. You are missing a proofs, abstract algebra, and number theory course. Also, make sure your data and algorithms course covers P vs NP. Most do, but I didn't look through the syllabus for these courses.
+
+Take out multi variable calc, diff EQ, signals, and then elec and mag. Those are more Comp engineering courses.
+
+I'm due to graduate soon, and I can tell you this covers about 60% of my degree. The usual boot camp stuff covers less than 5%. If you don't half ass it and do everything on here, you'll definitely know as much as an undergraduate, maybe even more. However, without a degree to prove it, I'm wondering if it's really worth doing all of this at home.
+
+I agree with everything in your course graph except for the paths leading from the Software Engineering, HTML CSS JS, and Databases nodes in the tree. These aren't really computer science. So I wouldn't include these unless someone desires to go into software development and/or web development as they aren't really necessary to learn unless you are going into that industry.
