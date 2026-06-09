@@ -104,25 +104,29 @@ Several potential failure modes may arise in this RAG system.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
 ```mermaid
-flowchart LR
+flowchart TB
 
-A[Document Ingestion<br/>Reddit • RateMyProfessor • Forums] -->
-B[Chunking<br/>300 chars + 50 overlap]
+subgraph OFFLINE ["Offline — Index Build (ingest.py + embed.py)"]
+  direction LR
+  A["Raw Sources<br/>Reddit .txt files<br/>RateMyCourses<br/>RateMyProfessors"] -->
+  B["Text Cleaning<br/>strip HTML, ads, boilerplate"] -->
+  C["Chunking<br/>300 chars + 50 overlap"] -->
+  D["Source Labeling<br/>prepend source name to each chunk"] -->
+  E["Embedding<br/>all-MiniLM-L6-v2<br/>SentenceTransformers"] -->
+  F[("Vector Store<br/>ChromaDB<br/>persistent collection")]
+end
 
-B -->
-C[Embedding Model<br/>all-MiniLM-L6-v2]
+subgraph ONLINE ["Online — Query Time (app.py)"]
+  direction LR
+  G["User Question"] -->
+  H["Query Embedding<br/>all-MiniLM-L6-v2"] -->
+  I["Retrieval<br/>cosine similarity<br/>top-k = 5"] -->
+  J["RAG Prompt<br/>injected context chunks<br/>+ grounding instruction"] -->
+  K["LLM Generation<br/>Groq API"] -->
+  L["Grounded Answer<br/>with source citations"]
+end
 
-C -->
-D[Vector Store<br/>FAISS / Chroma]
-
-D -->
-E[Retrieval<br/>Top-k = 3]
-
-E -->
-F[LLM Generation<br/>GPT-style model]
-
-F -->
-G[Answer with Citations<br/>Grounded Response]
+F -->|"cosine search"| I
 ```
 
 ---
