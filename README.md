@@ -38,7 +38,7 @@ This system covers computer science course and professor advice — student revi
 
 **Why these choices fit your documents:** The corpus consists primarily of short student reviews, Reddit comments, and forum replies — each typically expressing one opinion or piece of advice in a few sentences. A 300-character chunk is large enough to preserve a complete thought while remaining small enough for precise retrieval. A 50-character overlap prevents key information from being lost when a sentence falls near a chunk boundary. Before chunking, documents were cleaned to remove HTML tags, navigation elements, ad text, cookie banners, and boilerplate phrases (e.g. "Rate My Courses", "Read more", "Comments on the course") that appear on every page but carry no review content.
 
-**Final chunk count:** <!-- Fill in after running ingest.py — check the "Total chunks" line printed at the end -->
+**Final chunk count:** 136 chunks across all 10 sources
 
 ---
 
