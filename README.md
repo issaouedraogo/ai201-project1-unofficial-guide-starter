@@ -42,6 +42,28 @@ This system covers computer science course and professor advice — student revi
 
 ---
 
+## Sample Chunks
+
+The following 5 chunks are representative samples produced by `ingest.py` after cleaning and splitting the source documents.
+
+**Chunk 1 — Source: `reddit_1_cs_courses_order`**
+> CS50 in particular is the best of all the courses that I've done so far, including the in-person ones that I'm paying for.
+> I agree. CS50 Is worth the time investment of all the online programming courses I've tried.
+
+**Chunk 2 — Source: `reviews_cop3502c`**
+> Be ready for it to kick you in the behind unless you're studying and working out your assignments almost daily. First big boy CS class at UCF
+
+**Chunk 3 — Source: `reviews_cop3503c`**
+> Don't fall behind, because you will not pass this class if you do. There is way too much course material for any sort of slacking. Stay around the curve and focus on the labs and easy assignments, these can set you up early to do well.
+
+**Chunk 4 — Source: `reviews_prof_decker_delaware`**
+> Decker is wonderful. He provides amazingly simple, brief, and clear notes. That and the lectures is all you need to pass the course. Covers good, complex examples in lecture that always mirror the homework.
+
+**Chunk 5 — Source: `reviews_prof_mazidi_utdallas`**
+> The lectures are organized and engaging. Assignments and tests are fair, with great resources like the professor's custom textbook and YouTube videos.
+
+---
+
 ## Embedding Model
 
 **Model used:** all-MiniLM-L6-v2 via Sentence Transformers, running locally with no API key required.
