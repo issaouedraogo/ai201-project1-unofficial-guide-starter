@@ -72,11 +72,97 @@ The following 5 chunks are representative samples produced by `ingest.py` after 
 
 ---
 
+## Retrieval Test Results
+
+For each query, the system embeds the question and returns the top-5 most similar chunks from ChromaDB using cosine similarity.
+
+**Query 1: "What do students say about the difficulty of COP 3502C?"**
+
+| Rank | Source | Chunk excerpt |
+|---|---|---|
+| 1 | `reviews_cop3502c` | Be ready for it to kick you in the behind unless you're studying and working out your assignments almost daily… |
+| 2 | `reviews_cop3502c` | Szumlanski's class is very difficult, but very vital if you're looking to gain the knowledge you'd actually want for a job in the field… |
+| 3 | `reviews_cop3502c` | Going into CS1 at the start of the semester, I knew this was going to be a challenging course… |
+| 4 | `reviews_cop3502c` | This class is very difficult, but very vital if you're looking to gain the knowledge… |
+| 5 | `reviews_cop3502c` | Lots of data structures and runtime analysis in this class… |
+
+*Why these chunks are relevant:* All five chunks come directly from the COP 3502C review source. The source label prepended to each chunk during embedding ensured that the query matched these chunks over unrelated course reviews. The chunks consistently describe a steep difficulty curve requiring daily practice, which aligns with the expected answer.
+
+**Query 2: "What is Professor Decker's teaching style like according to students?"**
+
+| Rank | Source | Chunk excerpt |
+|---|---|---|
+| 1 | `reviews_prof_decker_delaware` | Decker is wonderful. He provides amazingly simple, brief, and clear notes. That and the lectures is all you need to pass the course… |
+| 2 | `reviews_prof_decker_delaware` | I love professor Decker. As a comp sci major this class made me more excited for the rest of the program… |
+| 3 | `reviews_prof_decker_delaware` | Had him for 304 and 481. I found both courses pretty difficult overall. For 304, I felt Prof. Decker did a good job giving us a lot of practice to help the concepts click… |
+| 4 | `reviews_prof_decker_delaware` | He gives really hard homework, but his exams are actually fair. He always made sure to go over things more than once… |
+| 5 | `reviews_prof_decker_delaware` | Homework usually takes me more than 8 hours on average to complete, and that's for every week… |
+
+*Why these chunks are relevant:* The professor's name appears in the source label prepended to every chunk from that document, so semantic similarity to "Decker" and "teaching style" correctly surfaces all five results from his review page. The chunks describe his note quality, practice problems, homework difficulty, and exam fairness — directly matching what students observed.
+
+**Query 3: "What do students recommend as the best first course in computer science?"**
+
+| Rank | Source | Chunk excerpt |
+|---|---|---|
+| 1 | `reddit_1_cs_courses_order` | CS50 in particular is the best of all the courses that I've done so far, including the in-person ones that I'm paying for… |
+| 2 | `reddit_2_cs_foundation` | I definitely recommend Harvard's CS50 since you can just do it for free online… |
+| 3 | `reddit_4_intro_cs_design` | I did Harvard CS50 Intro to Comp Sci. We started off with C and clawed our way up… |
+| 4 | `reddit_2_cs_foundation` | Take courses from big universities. CS61A and CS61B will give a really good foundation… |
+| 5 | `reddit_1_cs_courses_order` | I recommend it because for my CS education, I'm doing a combination of the two approaches… |
+
+---
+
 ## Grounded Generation
 
 **System prompt grounding instruction:** The system prompt instructs the model to answer using only the information in the provided context passages, and to explicitly say so if the context does not contain enough information to answer — rather than guessing or drawing on outside knowledge. The exact instruction is: _"Answer using ONLY the information in the provided context passages. If the context does not contain enough information to answer the question, say so clearly — do not guess or use outside knowledge."_
 
 **How source attribution is surfaced in the response:** Each retrieved chunk is formatted as a numbered passage with its source label before being sent to the model, e.g. `[1] (COP 3502C CS I UCF) <chunk text>`. The system prompt then instructs the model to end every response with a "Sources:" line listing the source names it drew from. This forces the model to cite specific chunks rather than blending information anonymously.
+
+---
+
+## Query Interface
+
+**Input field:** A single chat text input at the bottom of the page with placeholder text `e.g. What do students say about COP 3502C workload?`. The user types a natural language question and submits it by pressing Enter.
+
+**Output field:** A Streamlit chat message rendered in the assistant bubble. The response is plain prose grounded in the retrieved chunks and ends with a `Sources:` line listing the source document names the model drew from.
+
+**Sidebar:** Lists all 10 knowledge sources so users know the scope of the system before asking.
+
+**Sample interaction transcript:**
+
+> **User:** What do students say about the difficulty of COP 3502C?
+>
+> **Assistant:** According to student reviews, COP 3502C (Computer Science I at UCF) is considered a very challenging course. Students describe a steep learning curve with a fast pace, noting that you need to practice coding and work on assignments almost daily to keep up. The material is math and logic-heavy, covering data structures and runtime analysis using the C programming language. Despite the difficulty, students say the course is "very vital" for gaining real CS knowledge and that grading is fair if you put in consistent effort.
+>
+> Sources: reviews_cop3502c
+
+---
+
+## Example Responses
+
+**Example 1 — In-scope query with source attribution:**
+
+> **Query:** What is Professor Decker's teaching style like according to students?
+>
+> **Response:** Students describe Professor Decker as a joy to listen to who truly cares about his students. He provides simple, brief, and clear notes, and his lectures cover complex examples that mirror the homework. His exams are fair, though his homework is notably hard — one student reported spending more than 8 hours per week on assignments. He makes sure to repeat material if the class doesn't understand and tells students exactly what to expect on exams. Students strongly recommend attending every class, noting that skipping means not passing.
+>
+> Sources: reviews_prof_decker_delaware
+
+**Example 2 — In-scope query with source attribution:**
+
+> **Query:** What do students recommend as the best first course in computer science?
+>
+> **Response:** Harvard's CS50 is the most frequently recommended first course in computer science. Multiple students describe it as the best course they have taken, including better than in-person university courses. It is praised for its teaching style, David Malan's lectures, and its depth of coverage. It is available free online. Some students also mention UC Berkeley's CS61A and CS61B as strong foundation courses.
+>
+> Sources: reddit_1_cs_courses_order, reddit_2_cs_foundation, reddit_4_intro_cs_design
+
+**Example 3 — Out-of-scope query (refusal response):**
+
+> **Query:** What are the best restaurants near UCF campus?
+>
+> **Response:** The provided context passages do not contain any information about restaurants near UCF campus. I can only answer questions about introductory computer science courses and professors based on the student reviews and forum discussions in my knowledge base.
+>
+> Sources: (none)
 
 ---
 
